@@ -1,16 +1,21 @@
-### Hi there 👋
+### Glad to see you 👋, let me introduce myself . . .
 
-<!--
-**cfahd/cfahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Fahd <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cfahd&color=lightgrey" /> </p> 
 
-Here are some ideas to get you started:
+Engineer with a lifelong interest in all things information technology. Cybersecurity, database technologies, and programming are my main areas of concentration. Modern languages and technologies are second nature to me, and I am always eager to learn and experiment with new trends and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Skills:**
+
+- **Programming:** _Python, Java, PHP, JavaScript, Swift, R, VB.net_
+- **Database:** _Pl/Sql, Oracle Sql, MySql_
+- **Version Control:** _Git_
+- **IDEs:** _XCode, Visual Studio Code, Sublime Text, PyCharm, jGRASP, & Eclipse_
+- **Operating Systems:** _Unix, Linux, OS X, iOS, Windows, & Android_
+- **Project Management:** _Scrum_
+
+**Soft Skills:**
+
+- Problem-solving, collaboration, and communication
+
+![Fahd's github stats](https://github-readme-stats.vercel.app/api?username=cfahd&show_icons=true&theme=dark)
