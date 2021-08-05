@@ -18,4 +18,8 @@ Engineer with a lifelong interest in all things information technology. Cybersec
 
 - Problem-solving, collaboration, and communication
 
-![Fahd's github stats](https://github-readme-stats.vercel.app/api?username=cfahd&show_icons=true&theme=dark)
+![Fahd's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cfahd&hide=smalltalk&theme=dark&layout=compact&hide_border=false&custom_title=Fahd+'s+Most+Used+Languages)
+
+![Fahd's github stats](https://github-readme-stats.vercel.app/api?username=cfahd&show_icons=true&theme=dark&hide_border=false&icon_color=FFF)
+
+
