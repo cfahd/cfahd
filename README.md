@@ -7,7 +7,7 @@ Engineer with a lifelong interest in all things information technology. Cybersec
 
 **Technical Skills:**
 
-- **Programming:** _Python, Java, PHP, JavaScript, Swift, R, VB.net_
+- **Programming:** _Python, Java, PHP, JavaScript, Swift, R, Visual Basic .NET_
 - **Database:** _Pl/Sql, Oracle Sql, MySql_
 - **Version Control:** _Git_
 - **IDEs:** _XCode, Visual Studio Code, Sublime Text, PyCharm, jGRASP, & Eclipse_
