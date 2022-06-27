@@ -1,6 +1,6 @@
 ### Glad to see you 👋, let me introduce myself . . .
 
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Fahd <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">  Hi There , I'm Fahd <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>  </h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cfahd&color=lightgrey" /> </p> 
 
 Engineer with a lifelong interest in all things information technology. Cybersecurity, database technologies, and programming are my main areas of concentration. Modern languages and technologies are second nature to me, and I am always eager to learn and experiment with new trends and technologies.
